@@ -1,0 +1,1 @@
+En raison des limitations du logiciel Cameo, il n'est pas possible d'inclure plusieurs diagrammes. C'est pourquoi les diagrammes de cas d'utilisation ne sont pas présents dans notre fichier Cameo, mais ils sont disponibles dans notre rapport.
